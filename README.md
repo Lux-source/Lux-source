@@ -25,8 +25,24 @@
 <a href="www.linkedin.com/in/lucian-andrei-negoita-b60621239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lux-source" height="30" width="40" /></a>
 
 <br />
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
-### Languages and Tools:
+I am a Junior Developer learning in public and enjoying the process. I'm a weightlifter and I also enjoy swimming since I was younger.
 
-[]
-[]
+### Opensource Contributions
+
+Most of my projects are released as open-source on GitHub, and currently I'm trying to contribute to this projects:
+
+- [Devpill.me](https://github.com/dcbuild3r/devpill.me)
+
+</details>
+
+<details>
+</a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</details>
+
+- Solidity
+
+</details>
