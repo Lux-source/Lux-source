@@ -4,25 +4,25 @@
 
 ## I'm a Developer and a Curious person!
 
-- 🔭 I’m currently working on Educational Opensource projects and Blockchain!
-- 🌱 I’m currently learning [Solidity](https://solidity-es.readthedocs.io/es/latest/) and [Reactjs](https://es.reactjs.org/)
-- 💬 Ask me about Javascript/Html/Css or Cryptocurrencies/Trading
-- 📫 How to reach me: [@LucianAndrei2](https://twitter.com/LucianAndrei2)
-- 👯 I’m looking to collaborate with other builders of **Web3** and **Blockchain** enthusiasts.
-- ⚡ Fun fact: I love weightlifting and swimming.
+- 🔭 &nbsp;I’m currently working on Educational Opensource projects and Blockchain!
+- 🌱 &nbsp;I’m currently learning [Solidity](https://solidity-es.readthedocs.io/es/latest/) and [Reactjs](https://es.reactjs.org/)
+- 💬 &nbsp;Ask me about Javascript/Html/Css or Cryptocurrencies/Trading
+- 📫 &nbsp;How to reach me: [@LucianAndrei2](https://twitter.com/LucianAndrei2)
+- 👯 &nbsp;I’m looking to collaborate with other builders of **Web3** and **Blockchain** enthusiasts.
+- ⚡ &nbsp;Fun fact: I love weightlifting and swimming.
 
-📕 **Latest Blog Posts**
+📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 
 - [In progress]
 <!-- BLOG-POST-LIST:END -->
 
-### Conect with me:
+🔗 &nbsp;**Connect with me**
 
-[website]
-[linkedin]
-[twitter]
+<p align="left">
+<a href="https://twitter.com/LucianAndrei2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lux-source" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lucian-andrei-negoita-b60621239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lux-source" height="30" width="40" /></a>
 
 <br />
 
