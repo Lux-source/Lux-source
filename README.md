@@ -2,7 +2,7 @@
 
 ### My name is Lucian
 
-## I'm a Self-taught Web Developer!
+## I'm a Self-taught Web Developer and Currently also a CS student in UCLM University!
 
 - 🔭 &nbsp;I’m currently working on Educational Opensource projects and Blockchain!
 - 🌱 &nbsp;I’m currently learning [Vue](https://vuejs.org/) and [C](https://en.wikipedia.org/wiki/C_(programming_language))
