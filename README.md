@@ -2,7 +2,7 @@
 
 ### My name is Lucian
 
-## I'm a CS student in UCLM University!
+## I'm a CS student at UCLM University!
 
 - 🔭 &nbsp;I’m currently working on an ERP for beauty salons with Nest.js
 - 🌱 &nbsp;I’m currently learning for the [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/es/certification/certified-solutions-architect-associate/)
