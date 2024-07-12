@@ -4,7 +4,6 @@
 
 ## I'm a CS student at UCLM University!
 
-- 🔭 &nbsp;I’m currently working on an ERP for beauty salons with Nest.js
 - 🌱 &nbsp;I’m currently learning for the [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/es/certification/certified-solutions-architect-associate/)
 - 💬 &nbsp;Ask me about Java/C/Python
 - 📫 &nbsp;How to reach me: [Lucian Andrei Negoita](https://www.linkedin.com/in/lucian-andrei-negoita/)
