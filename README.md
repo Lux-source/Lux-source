@@ -5,10 +5,10 @@
 ## I'm a CS student at UCLM University!
 
 - 🌱 &nbsp;I’m currently learning for the [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/es/certification/certified-solutions-architect-associate/)
-- 💬 &nbsp;Ask me about Java/C/Python
+- 💬 &nbsp;Ask me about Java/C#/Python/Javascript
 - 📫 &nbsp;How to reach me: [Lucian Andrei Negoita](https://www.linkedin.com/in/lucian-andrei-negoita/)
 - 👯 &nbsp;I’m looking to collaborate with other developers.
-- ⚡ &nbsp;Fun fact: I love weightlifting and swimming.
+- ⚡ &nbsp;Fun fact: I love weightlifting, MMA and swimming.
 
 🔗 &nbsp;**Connect with me**
 
