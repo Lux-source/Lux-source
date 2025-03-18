@@ -13,5 +13,7 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lucian-andrei-negoita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lux-source" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/lucian-andrei-negoita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucian Andrei Negoita" height="30" width="40" /></a>
+&nbsp;
+<a href="https://lucianandreinegoita.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeac/codeac-original.svg" alt="Lucian's Website" height="30" width="40" /></a>
+</p>
