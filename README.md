@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently studying **Computer Science** at UCLM
+- 🎓 B.Sc. in **Computer Science** at UCLM
 - 📜 Recently earned: [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/278a6a0e-535d-4be0-a5ef-ef3ad24bb849/linked_in?t=t00949)
 - 🎯 Studying for: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 - 💬 I speak **Java**, **C#**, **Python**, and **JavaScript** fluently
