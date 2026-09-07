@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Lucian</h2>
 
-<p align="center">💻 Software Engineer (Backend) - Cloud/Distributed Architectures | ☁️ AWS Certified | 🐳 CKA in Progress</p>
+<p align="center">💻 Software Architect - Cloud & Applications Architectures | ☁️ AWS Certified | 🐳 CKA & ML Engineer (AWS) in Progress</p>
 
 ---
 
