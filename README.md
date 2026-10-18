@@ -9,6 +9,7 @@
 - 🏗️ Solutions Architect at **Capgemini Invent**, working on cloud and application architecture
 - 🎓 B.Sc. in **Computer Engineering** at UCLM, now studying a Master's in Big Data and Cloud Computing
 - 📜 Recently earned: [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/278a6a0e-535d-4be0-a5ef-ef3ad24bb849/linked_in?t=t00949)
+- 📜 Also certified: [Claude Certified Associate – Foundations](https://www.credly.com/badges/169cced7-e5bd-44cc-86c9-c530ea1c36cf) (Anthropic, 2026)
 - 🎯 Studying for: [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 - 💬 I speak **Java**, **C#**, **Python**, and **JavaScript** fluently
 - 🤝 Open to collaborating on exciting tech projects
